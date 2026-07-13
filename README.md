@@ -7,7 +7,7 @@ Contents
 - `car_dataset_cleaned.csv`: Cleaned dataset used by the notebook (not recommended to commit large datasets).
 
 Getting started
-1. Create and activate a Python virtual environment:
+1. Create and activate a Python virtual environment:    
 
 ```bash
 python -m venv .venv
